@@ -3,7 +3,7 @@
 A real-time car detection and tracking project built using YOLOv8, DeepSORT, and OpenCV.
 The system detects, tracks, and counts cars as they cross a defined line in traffic footage.
 
-**<h1>🧠 Technologies Used</h1>**
+**<h2>🧠 Technologies Used</h2>**
 
 1. Python
 
@@ -13,7 +13,7 @@ The system detects, tracks, and counts cars as they cross a defined line in traf
 
 4. OpenCV
 
-**<h1>⚙️ Features</h1>**
+**<h2>⚙️ Features</h2>**
 
 1. Real-time detection using YOLOv8
 
@@ -22,7 +22,7 @@ The system detects, tracks, and counts cars as they cross a defined line in traf
 3. Accurate car counting across a defined line
 
 
-**<h1>🧩 Installation</h1>**
+**<h2>🧩 Installation</h2>**
 
 1. Clone the repository:
 <pre>
@@ -35,25 +35,25 @@ cd Real-Time-Car-Counter
 pip install ultralytics deep-sort-realtime opencv-python
 </pre>
 
-**<h1>▶️ Usage</h1>**
+**<h2>▶️ Usage</h2>**
 
 -> Open the Jupyter Notebook:<br>
 -> jupyter notebook Car_Counter.ipynb<br>
 -> Run all the cells to start detection and tracking.<br>
 -> Press ESC in the preview window to stop the video.  
 
-**<h1>📊 Output</h1>**
+**<h2>📊 Output</h2>**
 
 -> Displays detected and tracked vehicles in real time.
 
 -> Shows the total number of vehicles that crossed the red counting line.
 
-**<h1>🧠 Example Output (Frame)</h1>**
+**<h2>🧠 Example Output (Frame)</h2>**
 
 See the Working.mp4 for the output and working.
 Total Cars Passed: 15
 
-**<h1>📁 Project Structure</h1>**
+**<h2>📁 Project Structure</h2>**
 <pre>Real-Time-Car-Counter/
 │
 ├── Car_Counter.ipynb       # Main notebook
@@ -62,12 +62,13 @@ Total Cars Passed: 15
 ├── Working.mp4             # Example working video output
 └── README.md               # Project documentation
 </pre>
-**<h1>🌟 Author</h1>**
+**<h2>🌟 Author</h2>**
 **Deepesh Garg**
 <br>Aspiring Data Analyst & AI Enthusiast | Passionate about Computer Vision
 <br>  
 GitHub: https://github.com/Deepeshgarg12539<br>
 LinkedIn: https://www.linkedin.com/in/deepeshgarg125390/
+
 
 
 
