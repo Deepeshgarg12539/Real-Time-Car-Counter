@@ -1,4 +1,3 @@
-<pre>
 **🚗 Real-Time-Car-Counter**
 
 A real-time car detection and tracking project built using YOLOv8, DeepSORT, and OpenCV.
@@ -55,19 +54,20 @@ See the Working.mp4 for the output and working.
 Total Cars Passed: 15
 
 **📁 Project Structure**
-Real-Time-Car-Counter/
+<pre>Real-Time-Car-Counter/
 │
 ├── Car_Counter.ipynb       # Main notebook
 ├── traffic.mp4             # Input video
 ├── yolov8n.pt              # YOLOv8 model weights
 ├── Working.mp4             # Example working video output
 └── README.md               # Project documentation
-
+</pre>
 **🌟 Author**
 **Deepesh Garg**
-Aspiring Data Analyst & AI Enthusiast | Passionate about Computer Vision
+<pre>Aspiring Data Analyst & AI Enthusiast | Passionate about Computer Vision
   
 GitHub: https://github.com/Deepeshgarg12539
 LinkedIn: https://www.linkedin.com/in/deepeshgarg125390/
 </pre>
+
 
