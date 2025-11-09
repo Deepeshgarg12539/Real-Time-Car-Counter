@@ -37,10 +37,10 @@ pip install ultralytics deep-sort-realtime opencv-python
 
 **▶️ Usage**
 
--> Open the Jupyter Notebook:
--> jupyter notebook Car_Counter.ipynb
--> Run all the cells to start detection and tracking.
--> Press ESC in the preview window to stop the video.
+-> Open the Jupyter Notebook:<br>
+-> jupyter notebook Car_Counter.ipynb<br>
+-> Run all the cells to start detection and tracking.<br>
+-> Press ESC in the preview window to stop the video.  
 
 **📊 Output**
 
@@ -68,6 +68,7 @@ Total Cars Passed: 15
 <br>  
 GitHub: https://github.com/Deepeshgarg12539<br>
 LinkedIn: https://www.linkedin.com/in/deepeshgarg125390/
+
 
 
 
