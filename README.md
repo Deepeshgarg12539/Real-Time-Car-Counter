@@ -1,4 +1,4 @@
-🚗 Real-Time-Car-Counter
+<pre>🚗 Real-Time-Car-Counter
 
 A real-time car detection and tracking project built using YOLOv8, DeepSORT, and OpenCV.
 The system detects, tracks, and counts cars as they cross a defined line in traffic footage.
@@ -65,5 +65,7 @@ Real-Time-Car-Counter/
 🌟 Author
 Deepesh Garg
 Aspiring Data Analyst & AI Enthusiast | Passionate about Computer Vision
+  
 GitHub: https://github.com/Deepeshgarg12539
 LinkedIn: https://www.linkedin.com/in/deepeshgarg125390/
+</pre>
