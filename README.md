@@ -25,15 +25,15 @@ The system detects, tracks, and counts cars as they cross a defined line in traf
 **🧩 Installation**
 
 1. Clone the repository:
-
+<pre>
 git clone https://github.com/Deepeshgarg12539/Real-Time-Car-Counter.git
 cd Real-Time-Car-Counter
+</pre>
 
-
-2. Install dependencies:
-
+3. Install dependencies:
+<pre>
 pip install ultralytics deep-sort-realtime opencv-python
-
+</pre>
 
 **▶️ Usage**
 
@@ -69,5 +69,6 @@ Total Cars Passed: 15
 GitHub: https://github.com/Deepeshgarg12539
 LinkedIn: https://www.linkedin.com/in/deepeshgarg125390/
 </pre>
+
 
 
