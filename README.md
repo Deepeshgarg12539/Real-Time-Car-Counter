@@ -64,10 +64,11 @@ Total Cars Passed: 15
 </pre>
 **🌟 Author**
 **Deepesh Garg**
-Aspiring Data Analyst & AI Enthusiast | Passionate about Computer Vision
-  
-GitHub: https://github.com/Deepeshgarg12539
+<br>Aspiring Data Analyst & AI Enthusiast | Passionate about Computer Vision
+<br>  
+GitHub: https://github.com/Deepeshgarg12539<br>
 LinkedIn: https://www.linkedin.com/in/deepeshgarg125390/
+
 
 
 
